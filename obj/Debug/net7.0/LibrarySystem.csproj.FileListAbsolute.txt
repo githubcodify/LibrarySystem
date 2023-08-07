@@ -1,0 +1,15 @@
+/Users/emreergovan/Projects/LibrarySystem/bin/Debug/net7.0/LibrarySystem
+/Users/emreergovan/Projects/LibrarySystem/bin/Debug/net7.0/LibrarySystem.deps.json
+/Users/emreergovan/Projects/LibrarySystem/bin/Debug/net7.0/LibrarySystem.runtimeconfig.json
+/Users/emreergovan/Projects/LibrarySystem/bin/Debug/net7.0/LibrarySystem.dll
+/Users/emreergovan/Projects/LibrarySystem/bin/Debug/net7.0/LibrarySystem.pdb
+/Users/emreergovan/Projects/LibrarySystem/obj/Debug/net7.0/LibrarySystem.csproj.AssemblyReference.cache
+/Users/emreergovan/Projects/LibrarySystem/obj/Debug/net7.0/LibrarySystem.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emreergovan/Projects/LibrarySystem/obj/Debug/net7.0/LibrarySystem.AssemblyInfoInputs.cache
+/Users/emreergovan/Projects/LibrarySystem/obj/Debug/net7.0/LibrarySystem.AssemblyInfo.cs
+/Users/emreergovan/Projects/LibrarySystem/obj/Debug/net7.0/LibrarySystem.csproj.CoreCompileInputs.cache
+/Users/emreergovan/Projects/LibrarySystem/obj/Debug/net7.0/LibrarySystem.dll
+/Users/emreergovan/Projects/LibrarySystem/obj/Debug/net7.0/refint/LibrarySystem.dll
+/Users/emreergovan/Projects/LibrarySystem/obj/Debug/net7.0/LibrarySystem.pdb
+/Users/emreergovan/Projects/LibrarySystem/obj/Debug/net7.0/LibrarySystem.genruntimeconfig.cache
+/Users/emreergovan/Projects/LibrarySystem/obj/Debug/net7.0/ref/LibrarySystem.dll
