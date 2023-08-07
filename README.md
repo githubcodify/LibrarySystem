@@ -13,8 +13,7 @@ This library management system project is developed to manage the library invent
 ## Technologies Used
 
 - C# Programming Language
-- .NET Core (version: x.x)
-- Database: SQLite
+- .NET Core 
 
 ## How to Run
 
